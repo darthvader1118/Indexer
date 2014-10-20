@@ -33,4 +33,6 @@ void printResult(hashTable *hash);
 char *lowerCase(char *word);
 int compareNodes(Node *p1, Node *p2);
 FileNode *CreateFileNode(char *file);
-void Fparse(char *filename);
+void Fparse(char *filename, hashTable *ftable);
+int WriteToFile(char * invfile, hashTable *hash);
+char *FNToString(FileNode *fn);

@@ -8,6 +8,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include "indexer.h"
+#include <unistd.h>
 
 int GetIndex(char *word) {
 	char firstLetter;
@@ -69,7 +70,7 @@ char *lowerCase(char *word){
 void InsertToTable(hashTable *hash, char *word, char *filename){
 	int i,j;
 	i = GetIndex(word);
-	Node *ptr = hash->buckets[i]->root;
+	
 	if(!hash){
 		return;
 	}
@@ -84,20 +85,22 @@ void InsertToTable(hashTable *hash, char *word, char *filename){
 
 		//need to add more here
 		return;
-	}
-	while(ptr != NULL){
-		if(strcmp(word,ptr->value)== 0){
-			FileNode *fptr = ptr->info;
-			while(fptr != NULL){
-				if(strcmp(filename,fptr->filename)==0){
-					fptr->occ++;
-					return;
-				}
-				if(fptr->next == NULL){
-					FileNode *newf = CreateFileNode(filename);
-					fptr->next = newf;
-					return;
-				}
+	}else{
+		Node *ptr = hash->buckets[i]->root;
+
+		while(ptr != NULL){
+			if(strcmp(word,ptr->value)== 0){
+				FileNode *fptr = ptr->info;
+				while(fptr != NULL){
+					if(strcmp(filename,fptr->filename)==0){
+						fptr->occ++;
+						return;
+					}
+					if(fptr->next == NULL){
+						FileNode *newf = CreateFileNode(filename);
+						fptr->next = newf;
+						return;
+					}
 				fptr=fptr->next;
 			}
 		}
@@ -109,6 +112,7 @@ void InsertToTable(hashTable *hash, char *word, char *filename){
 			return;
 		}
 		ptr = ptr->next;
+		}
 	}
 }
 char *getseparators(char *string){
@@ -130,72 +134,92 @@ char *getseparators(char *string){
 	return delims;
 }
 
-void Fparse(char *filename){
+void Fparse(char *filename, hashTable *ftable){
 	FILE *stream;
 	char *contents;
 	char *token;
 	int size = 0;
-	stream = fopen(filename,"rb");
+	if ( stream != NULL ){
 
-	fseek(stream, 0L, SEEK_END);
-	size = ftell(stream);
-	fseek(stream, 0L, SEEK_SET);
+    fseek(stream, 0L, SEEK_END);
+    long s = ftell(stream);
+    rewind(stream);
+    contents = malloc(s +1);
+    if ( contents != NULL )
+    {
+      fread(contents, s, 1, stream);
+      // we can now close the file
 
-	//Allocate enough memory (add 1 for the \0, since fread won't add it)
-	contents = malloc(size+1);
-	////Read the file 
-	size_t Filesize=fread(contents,1,size,stream);
-	contents[size]='\0'; // Add terminating zero.
-	////Print it again for debugging
-	//printf("Read %s\n", contents);
-	//
-	fclose(stream);
+      fclose(stream); stream = NULL;
+  	}
+  }
 
 	TokenizerT *tk = TKCreate(getseparators(contents),contents);
 	token = TKGetNextToken(tk);
-	hashTable *ftable = CreateTable();
 	while(token != NULL){
 		InsertToTable(ftable, token, filename);
 		token = TKGetNextToken(tk);
 	}
 }
-FILE *CreateInvertedindexer(char * invfile, hashTable *hash){
+int WriteToFile(char * invfile, hashTable *hash){
 	FILE *fp;
+	if(fp == NULL){
+		return 0;
+	}
+	if(hash == NULL){
+		return 0;
+	}
 	fp = fopen(invfile, "w");
 	int i;
 	LList *ll;
 	Node *ptr;
+	
 	for(i = 0; i < 36; i++){
 		ll = hash->buckets[i];
 		ptr = ll->root;
 		if(ll == NULL){
 			continue;
 		}
-		if(root == NULL){
+		if(ptr == NULL){
 			continue;
 		}
 		while(ptr != NULL){
-
-
-	
-
-
+			fprintf(fp,"<list> %s\n",ptr->value);
+			FileNode *fnp = ptr->info;
+			while(fnp !=NULL){
+				fprintf(fp, "%s %d",fnp->filename,fnp->occ);
+				fnp = fnp->next;
+			}
+			fprintf(fp,"\n</list>\n");
+			ptr = ptr->next;
+		}
+	}
+	fclose(fp);
+	return 1;
 }
-char *FNToString(FileNode *fn){
+
+/*char *FNToString(FileNode *fn){
 	char *fname;
 	char *res;
 	char *intstring;
 	intstring = (char *)malloc(sizeof(char)*8);
-	fname = fn->filname;
+	fname = fn->filename;
 	sprintf(intstring, "%d", fn->occ);
 	res = strcat(res, fname);
 	res = strcat(res, " ");
 	res = strcat(res, intstring);
 	return res;
 }
-
+*/
 
 int main(int argc, char **argv){
-	puts("compiled");
+
+	char *file = argv[2];
+	char *inv = argv[1];
+	hashTable *ht = CreateTable();
+	Fparse(file, ht);
+	WriteToFile(inv, ht); 
+
+	
 
 }
