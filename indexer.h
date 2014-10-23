@@ -36,3 +36,5 @@ FileNode *CreateFileNode(char *file);
 void Fparse(char *filename, hashTable *ftable);
 int WriteToFile(char * invfile, hashTable *hash);
 char *FNToString(FileNode *fn);
+static void dir_traversal(char *path, hashTable *table);
+void freeHashTable(hashTable *hash);
