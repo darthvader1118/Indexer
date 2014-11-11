@@ -1,3 +1,5 @@
+#ifndef INDEX_H
+#define INDEX_H
 #include <stdio.h>
 #include <stdlib.h> /* malloc */
 #include <string.h>
@@ -25,16 +27,42 @@ typedef struct _FileNode{
 }FileNode;
 
 Node *CreateNode(char *word);
+
 LList *CreateLL();
+
 hashTable *CreateTable();
+
 void InsertToTable(hashTable *hash, char *word,char *filename);
+
 int GetIndex(char *word);
+
 void printResult(hashTable *hash);
+
 char *lowerCase(char *word);
+
 int compareNodes(Node *p1, Node *p2);
+
 FileNode *CreateFileNode(char *file);
+
+char *FormatString(char *input);
+
+void printTable(hashTable *hash);
+
+void printLL(hashTable *hash, int i);
+
+char *getseparators(char *string);
+
 void Fparse(char *filename, hashTable *ftable);
+
 int WriteToFile(char * invfile, hashTable *hash);
-char *FNToString(FileNode *fn);
+
 static void dir_traversal(char *path, hashTable *table);
+
 void freeHashTable(hashTable *hash);
+
+void printTable(hashTable *hash);
+
+void printLL(hashTable *hash, int i);
+
+char *FormatString(char *input);
+#endif

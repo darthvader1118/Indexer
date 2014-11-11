@@ -11,21 +11,21 @@
 #include <unistd.h>
 #include <errno.h>
 
-#include "tokenizer.h"
+
 
 int GetIndex(char *word) {
-	char firstLetter;
+	char firstLetter = word[0];
 	if(!word) return -1;
-	if(isalpha(word[0])){
-		firstLetter = tolower(word[0]);
+	if(isalpha(firstLetter)){
+		firstLetter = tolower(firstLetter);
 		if (firstLetter != '\0') {
 			return (firstLetter - 'a');
 		} else {
 			return -1;
 		}
 	}
-	else if(isdigit(word[0])){
-		return (word[0]-'0') + 26;
+	else if(isdigit(firstLetter)){
+		return (firstLetter-'0') + 26;
 	}
 	else{
 		return -1;
@@ -42,7 +42,7 @@ FileNode *CreateFileNode(char *file){
 Node *CreateNode(char *word) {
 	word = lowerCase(word);
 	Node *new_Node = (Node *)malloc(sizeof(Node));
-	printf("Creating node with: %s\n", word);
+	//printf("Creating node with: %s\n", word);
 	new_Node->info = NULL;
 	new_Node->value = word;
 	new_Node->next = NULL;
@@ -51,14 +51,15 @@ Node *CreateNode(char *word) {
 }
 
 LList *CreateLL() {
-	LList *new_LL = malloc(sizeof(LList));
+	LList *new_LL = (LList *)malloc(sizeof(LList));
 	new_LL->size = 0;
+	new_LL->root = NULL;
 	return new_LL;
 }
 
 hashTable *CreateTable() {
-	hashTable *new_table = malloc(sizeof(hashTable));
-	new_table->buckets = malloc(sizeof(LList *) * 36);
+	hashTable *new_table = (hashTable *)malloc(sizeof(hashTable));
+	new_table->buckets = (LList **)malloc(sizeof(LList *) * 36);
 	new_table->size = 36;
 	return new_table;
 }
@@ -73,6 +74,7 @@ char *lowerCase(char *word){
 void InsertToTable(hashTable *hash, char *word, char *filename){
 	int i;
 	i = GetIndex(word);
+	Node *ptr;
 	
 	if(!hash){
 		return;
@@ -85,34 +87,86 @@ void InsertToTable(hashTable *hash, char *word, char *filename){
 		hash->buckets[i]->root = CreateNode(word);
 		hash->buckets[i]->size++;
 		hash->buckets[i]->root->info = CreateFileNode(filename);
+		//printLL(hash, i);
+		//printf("%s\n",hash->buckets[i]->root->value);
+		//printTable(hash);
 
 		//need to add more here
 		return;
 	}else{
-		Node *ptr = hash->buckets[i]->root;
+		ptr = hash->buckets[i]->root;
 
 		while(ptr != NULL){
-			if(strcmp(word,ptr->value)== 0){
+			if(strcmp(lowerCase(word),ptr->value)== 0){
 				FileNode *fptr = ptr->info;
 				while(fptr != NULL){
 					if(strcmp(filename,fptr->filename)==0){
 						fptr->occ++;
-						return;
+						/*if(isalpha(ptr->value[0])){
+							if(ptr->value[0] - 'a' != i){
+								puts("error aborting now");
+								exit(0);
+							}
+						}
+							else if(isdigit(ptr->value[0])){
+								if((ptr->value[0]-'0') + 26 != i){
+									puts("error aborting now");
+									exit(0);
+								}
+							}
+								else
+									return;*/
+					return;
 					}
 					if(fptr->next == NULL){
 						FileNode *newf = CreateFileNode(filename);
 						fptr->next = newf;
-						return;
+						//puts(newf->filename);
+						//printLL(hash, i);
+						/*if(isalpha(ptr->value[0])){
+							if(ptr->value[0] - 'a' != i){
+								puts("error aborting now");
+								exit(42);
+							}
+						}
+							else if(isdigit(ptr->value[0])){
+								if((ptr->value[0]-'0') + 26 != i){
+									puts("error aborting now");
+									exit(42);
+								}
+							}
+								else
+									return;*/
+					return;
+					
 					}
 				fptr=fptr->next;
 			}
 		}
 		if(ptr->next == NULL){
 			Node *newOne = CreateNode(word);
-			ptr->next = newOne;
 			FileNode *fn = CreateFileNode(filename);
 			newOne->info = fn;
-			return;
+			ptr->next = newOne;
+			hash->buckets[i]->size++;
+			//printLL(hash, i);
+			//printf("%s\n",ptr->value);
+			//printTable(hash);
+			/*if(isalpha(ptr->value[0])){
+							if(ptr->value[0] - 'a' != i){
+								puts("error aborting now");
+								exit(42);
+							}
+						}
+							else if(isdigit(ptr->value[0])){
+								if((ptr->value[0]-'0') + 26 != i){
+									puts("error aborting now");
+									exit(42);
+								}
+							}
+								else
+									return;*/
+		return;
 		}
 		ptr = ptr->next;
 		}
@@ -121,9 +175,8 @@ void InsertToTable(hashTable *hash, char *word, char *filename){
 char *getseparators(char *string){
 	char *delims;
 	delims = (char *)malloc(100*sizeof(char));
-	int size,i,j;
+	int i,j;
 	j = 0;
-	size = 0;
 	for(i = 0; string[i] != '\0'; i++){
 		if(!isalnum(string[i])){
 			if(j == 99){
@@ -133,36 +186,54 @@ char *getseparators(char *string){
 			j++;
 		}
 	}
+	delims = realloc(delims, (j+1)*sizeof(char));
 	return delims;
+}
+char *FormatString(char *input){
+	int i;
+	for(i = 0; i < strlen(input); i++){
+		if(!isalnum(input[i])){
+			input[i] = ' ';
+		}
+	}
+	return input;
 }
 
 void Fparse(char *filename, hashTable *ftable){
 	FILE *stream;
-	char *contents;
+	char *contents; //= (char *)malloc(2000*sizeof(char *));
 	char *token;
+	int j, size;
 	stream = fopen(filename, "rb+");
 	if ( stream != NULL ){
 
     fseek(stream, 0L, SEEK_END);
-    long s = ftell(stream);
+    size = (int)ftell(stream);
     rewind(stream);
-    contents = malloc(s +1);
-    if ( contents != NULL )
-    {
-      fread(contents, s, 1, stream);
-      // we can now close the file
-
-      fclose(stream); stream = NULL;
-  	}
-  }
-  	char *sep = getseparators(contents);
-	TokenizerT *tk = TKCreate(sep,contents);
-	token = TKGetNextToken(tk);
+    contents = (char *)malloc(size +1);
+    for(j = 0; j <(size/sizeof(char)); j++){
+    	contents[j] = fgetc(stream);
+    }
+    fclose(stream);
+  //size_t len = 0;
+  	
+  //use strtok not this shit
+  //fgets(contents, 2000, stream);
+  //while(contents != NULL){
+  	contents = FormatString(contents);
+	
+	token = strtok(contents, " ");
 	while(token != NULL){
 		InsertToTable(ftable, token, filename);
-		token = TKGetNextToken(tk);
+		//puts(token);
+		token = strtok(NULL, " ");
 	}
-	free(sep);
+	//free(contents);
+	//char *contents = (char *)malloc(2000*sizeof(char *));
+	//contents = fgets(contents, 2000, stream);
+	//free(sep);
+	}
+	
 }
 int WriteToFile(char * invfile, hashTable *hash){
 	FILE *fp;
@@ -241,7 +312,7 @@ static void dir_traversal(char *path, hashTable *table) {
 		}else
 			puts("error");
 		//Frees memory for filepath variable
-		free(fil_path);
+		//free(fil_path);
 	}
 	//Closes the current directory after all its directories are traversed & files are parsed  
 	closedir(dir);
@@ -280,6 +351,40 @@ void freeHashTable(hashTable *hash){
 	}
 	free(hash);
 }
+void printTable(hashTable *hash){
+	int i;
+	LList *ll;
+	Node *ptr;
+	for(i = 0; i < hash->size; i++){
+		ll = hash->buckets[i];
+		//fprintf(fp, "hello\n");
+		if(ll == NULL){
+			free(ll);
+			continue;
+		}
+		ptr = ll->root;
+		if(ptr == NULL){
+			//printf("%s\n", ptr->value);
+			continue;
+		}
+		while(ptr != NULL){
+
+			printf("%s\n", ptr->value);
+			FileNode *fnp = ptr->info;
+			while(fnp !=NULL){
+				printf("%s\n", fnp->filename);
+				
+				fnp = fnp->next;
+			}
+			//free(ptr->value);
+			//free(ptr->info);
+			//free(ptr);
+			ptr = ptr->next;
+		}
+		//free(ll);
+	}
+	//free(hash);
+}
 
 
 /*char *FNToString(FileNode *fn){
@@ -295,7 +400,18 @@ void freeHashTable(hashTable *hash){
 	return res;
 }
 */
-
+void printLL(hashTable *hash, int i){
+	LList *ll = hash->buckets[i];
+	Node *ptr = ll->root;
+	if(ptr == NULL){
+		puts("empty linked list");
+		return;
+	}
+	while(ptr != NULL){
+		printf("%s\n", ptr->value);
+		ptr = ptr->next;
+	}
+}
 int main(int argc, char **argv){
 	char *path = argv[2];
 	char *inv = argv[1];
@@ -326,7 +442,9 @@ int main(int argc, char **argv){
     	puts("Try again");
 	}
 	WriteToFile(inv, ht);
-	freeHashTable(ht); 
+	puts("file successfully written");
+	//printTable(ht);
+	//freeHashTable(ht); 
 
 	
 return 0;

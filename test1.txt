@@ -1,0 +1,1656 @@
+<list> another
+test2/test2.txt 1 test2/huxley/bnw1 2 
+</list>
+<list> a
+test2/test2.txt 1 test2/huxley/bnw1 33 
+</list>
+<list> and
+test2/huxley/bnw1 35 
+</list>
+<list> all
+test2/huxley/bnw1 3 
+</list>
+<list> academic
+test2/huxley/bnw1 1 
+</list>
+<list> along
+test2/huxley/bnw1 1 
+</list>
+<list> after
+test2/huxley/bnw1 4 
+</list>
+<list> as
+test2/huxley/bnw1 7 
+</list>
+<list> absent
+test2/huxley/bnw1 1 
+</list>
+<list> absorbed
+test2/huxley/bnw1 1 
+</list>
+<list> arrived
+test2/huxley/bnw1 1 
+</list>
+<list> abjectly
+test2/huxley/bnw1 1 
+</list>
+<list> at
+test2/huxley/bnw1 8 
+</list>
+<list> always
+test2/huxley/bnw1 1 
+</list>
+<list> are
+test2/huxley/bnw1 2 
+</list>
+<list> add
+test2/huxley/bnw1 1 
+</list>
+<list> advanced
+test2/huxley/bnw1 1 
+</list>
+<list> anyhow
+test2/huxley/bnw1 1 
+</list>
+<list> arise
+test2/huxley/bnw1 1 
+</list>
+<list> ask
+test2/huxley/bnw1 1 
+</list>
+<list> an
+test2/huxley/bnw1 3 
+</list>
+<list> against
+test2/huxley/bnw1 1 
+</list>
+<list> across
+test2/huxley/bnw1 1 
+</list>
+<list> amounting
+test2/huxley/bnw1 1 
+</list>
+<list> account
+test2/huxley/bnw1 1 
+</list>
+<list> alive
+test2/huxley/bnw1 1 
+</list>
+<list> actively
+test2/huxley/bnw1 1 
+</list>
+<list> actually
+test2/huxley/bnw1 2 
+</list>
+<list> abnormalities
+test2/huxley/bnw1 1 
+</list>
+<list> any
+test2/huxley/bnw1 1 
+</list>
+<list> again
+test2/huxley/bnw1 4 
+</list>
+<list> alphas
+test2/huxley/bnw1 1 
+</list>
+<list> adult
+test2/huxley/bnw1 2 
+</list>
+<list> arrests
+test2/huxley/bnw1 1 
+</list>
+<list> about
+test2/huxley/bnw1 1 
+</list>
+<list> almost
+test2/huxley/bnw1 1 
+</list>
+<list> alcohol
+test2/huxley/bnw1 1 
+</list>
+<list> arrest
+test2/huxley/bnw1 1 
+</list>
+<list> anything
+test2/huxley/bnw1 1 
+</list>
+<list> agree
+test2/huxley/bnw1 1 
+</list>
+<list> accidentally
+test2/huxley/bnw1 1 
+</list>
+<list> building
+test2/huxley/bnw1 1 
+</list>
+<list> beyond
+test2/huxley/bnw1 1 
+</list>
+<list> but
+test2/huxley/bnw1 5 
+</list>
+<list> bleakly
+test2/huxley/bnw1 1 
+</list>
+<list> barrels
+test2/huxley/bnw1 1 
+</list>
+<list> borrow
+test2/huxley/bnw1 1 
+</list>
+<list> butter
+test2/huxley/bnw1 1 
+</list>
+<list> bent
+test2/huxley/bnw1 1 
+</list>
+<list> breathing
+test2/huxley/bnw1 1 
+</list>
+<list> be
+test2/huxley/bnw1 3 
+</list>
+<list> backbone
+test2/huxley/bnw1 1 
+</list>
+<list> boys
+test2/huxley/bnw1 1 
+</list>
+<list> big
+test2/huxley/bnw1 1 
+</list>
+<list> by
+test2/huxley/bnw1 7 
+</list>
+<list> begin
+test2/huxley/bnw1 2 
+</list>
+<list> beginning
+test2/huxley/bnw1 2 
+</list>
+<list> blood
+test2/huxley/bnw1 2 
+</list>
+<list> beget
+test2/huxley/bnw1 1 
+</list>
+<list> brief
+test2/huxley/bnw1 1 
+</list>
+<list> bonus
+test2/huxley/bnw1 1 
+</list>
+<list> bouillon
+test2/huxley/bnw1 1 
+</list>
+<list> back
+test2/huxley/bnw1 1 
+</list>
+<list> betas
+test2/huxley/bnw1 1 
+</list>
+<list> bottled
+test2/huxley/bnw1 1 
+</list>
+<list> brought
+test2/huxley/bnw1 1 
+</list>
+<list> bokanovsky
+test2/huxley/bnw1 2 
+</list>
+<list> bokanovskified
+test2/huxley/bnw1 1 
+</list>
+<list> bud
+test2/huxley/bnw1 5 
+</list>
+<list> buds
+test2/huxley/bnw1 4 
+</list>
+<list> beings
+test2/huxley/bnw1 1 
+</list>
+<list> before
+test2/huxley/bnw1 1 
+</list>
+<list> bokanovskification
+test2/huxley/bnw1 1 
+</list>
+<list> budding
+test2/huxley/bnw1 2 
+</list>
+<list> busy
+test2/huxley/bnw1 1 
+</list>
+<list> band
+test2/huxley/bnw1 1 
+</list>
+<list> box
+test2/huxley/bnw1 1 
+</list>
+<list> being
+test2/huxley/bnw1 2 
+</list>
+<list> began
+test2/huxley/bnw1 1 
+</list>
+<list> budded
+test2/huxley/bnw1 3 
+</list>
+<list> burgeoned
+test2/huxley/bnw1 1 
+</list>
+<list> becoming
+test2/huxley/bnw1 1 
+</list>
+<list> central
+test2/huxley/bnw1 2 
+</list>
+<list> conditioning
+test2/huxley/bnw1 2 
+</list>
+<list> centre
+test2/huxley/bnw1 1 
+</list>
+<list> community
+test2/huxley/bnw1 1 
+</list>
+<list> cold
+test2/huxley/bnw1 1 
+</list>
+<list> corpse
+test2/huxley/bnw1 1 
+</list>
+<list> coloured
+test2/huxley/bnw1 1 
+</list>
+<list> certain
+test2/huxley/bnw1 1 
+</list>
+<list> concentration
+test2/huxley/bnw1 2 
+</list>
+<list> callow
+test2/huxley/bnw1 1 
+</list>
+<list> carried
+test2/huxley/bnw1 1 
+</list>
+<list> c
+test2/huxley/bnw1 3 
+</list>
+<list> conducting
+test2/huxley/bnw1 1 
+</list>
+<list> course
+test2/huxley/bnw1 2 
+</list>
+<list> collectors
+test2/huxley/bnw1 1 
+</list>
+<list> compose
+test2/huxley/bnw1 1 
+</list>
+<list> chin
+test2/huxley/bnw1 1 
+</list>
+<list> covered
+test2/huxley/bnw1 1 
+</list>
+<list> curved
+test2/huxley/bnw1 1 
+</list>
+<list> carries
+test2/huxley/bnw1 1 
+</list>
+<list> continued
+test2/huxley/bnw1 1 
+</list>
+<list> consideration
+test2/huxley/bnw1 1 
+</list>
+<list> charges
+test2/huxley/bnw1 1 
+</list>
+<list> contained
+test2/huxley/bnw1 1 
+</list>
+<list> counted
+test2/huxley/bnw1 1 
+</list>
+<list> containing
+test2/huxley/bnw1 1 
+</list>
+<list> cubic
+test2/huxley/bnw1 1 
+</list>
+<list> centimetre
+test2/huxley/bnw1 1 
+</list>
+<list> container
+test2/huxley/bnw1 1 
+</list>
+<list> contents
+test2/huxley/bnw1 1 
+</list>
+<list> concluded
+test2/huxley/bnw1 1 
+</list>
+<list> consists
+test2/huxley/bnw1 1 
+</list>
+<list> check
+test2/huxley/bnw1 1 
+</list>
+<list> can
+test2/huxley/bnw1 1 
+</list>
+<list> chilled
+test2/huxley/bnw1 2 
+</list>
+<list> checked
+test2/huxley/bnw1 1 
+</list>
+<list> consequently
+test2/huxley/bnw1 1 
+</list>
+<list> directory
+test2/test2.txt 1 
+</list>
+<list> draped
+test2/huxley/bnw1 1 
+</list>
+<list> dead
+test2/huxley/bnw1 1 
+</list>
+<list> did
+test2/huxley/bnw1 1 
+</list>
+<list> down
+test2/huxley/bnw1 2 
+</list>
+<list> director
+test2/huxley/bnw1 5 
+</list>
+<list> door
+test2/huxley/bnw1 3 
+</list>
+<list> desperately
+test2/huxley/bnw1 1 
+</list>
+<list> d
+test2/huxley/bnw1 3 
+</list>
+<list> departments
+test2/huxley/bnw1 1 
+</list>
+<list> do
+test2/huxley/bnw1 1 
+</list>
+<list> didn
+test2/huxley/bnw1 2 
+</list>
+<list> description
+test2/huxley/bnw1 1 
+</list>
+<list> developing
+test2/huxley/bnw1 1 
+</list>
+<list> detached
+test2/huxley/bnw1 1 
+</list>
+<list> drawn
+test2/huxley/bnw1 1 
+</list>
+<list> drop
+test2/huxley/bnw1 2 
+</list>
+<list> definitely
+test2/huxley/bnw1 1 
+</list>
+<list> deltas
+test2/huxley/bnw1 1 
+</list>
+<list> divide
+test2/huxley/bnw1 2 
+</list>
+<list> development
+test2/huxley/bnw1 1 
+</list>
+<list> died
+test2/huxley/bnw1 1 
+</list>
+<list> divided
+test2/huxley/bnw1 1 
+</list>
+<list> develop
+test2/huxley/bnw1 2 
+</list>
+<list> days
+test2/huxley/bnw1 2 
+</list>
+<list> dosed
+test2/huxley/bnw1 1 
+</list>
+<list> death
+test2/huxley/bnw1 1 
+</list>
+<list> dozens
+test2/huxley/bnw1 1 
+</list>
+<list> entrance
+test2/huxley/bnw1 1 
+</list>
+<list> enormous
+test2/huxley/bnw1 1 
+</list>
+<list> entered
+test2/huxley/bnw1 1 
+</list>
+<list> each
+test2/huxley/bnw1 1 
+</list>
+<list> explain
+test2/huxley/bnw1 1 
+</list>
+<list> every
+test2/huxley/bnw1 3 
+</list>
+<list> evils
+test2/huxley/bnw1 1 
+</list>
+<list> explained
+test2/huxley/bnw1 1 
+</list>
+<list> excised
+test2/huxley/bnw1 1 
+</list>
+<list> eggs
+test2/huxley/bnw1 3 
+</list>
+<list> examined
+test2/huxley/bnw1 1 
+</list>
+<list> epsilons
+test2/huxley/bnw1 1 
+</list>
+<list> egg
+test2/huxley/bnw1 6 
+</list>
+<list> embryo
+test2/huxley/bnw1 3 
+</list>
+<list> eight
+test2/huxley/bnw1 6 
+</list>
+<list> essentially
+test2/huxley/bnw1 1 
+</list>
+<list> enough
+test2/huxley/bnw1 1 
+</list>
+<list> entering
+test2/huxley/bnw1 1 
+</list>
+<list> emerging
+test2/huxley/bnw1 1 
+</list>
+<list> embryos
+test2/huxley/bnw1 1 
+</list>
+<list> file
+test2/test2.txt 1 
+</list>
+<list> four
+test2/huxley/bnw1 3 
+</list>
+<list> floor
+test2/huxley/bnw1 1 
+</list>
+<list> faced
+test2/huxley/bnw1 1 
+</list>
+<list> for
+test2/huxley/bnw1 11 
+</list>
+<list> figure
+test2/huxley/bnw1 1 
+</list>
+<list> flesh
+test2/huxley/bnw1 1 
+</list>
+<list> finding
+test2/huxley/bnw1 1 
+</list>
+<list> frozen
+test2/huxley/bnw1 1 
+</list>
+<list> from
+test2/huxley/bnw1 6 
+</list>
+<list> fertilizing
+test2/huxley/bnw1 2 
+</list>
+<list> fertilizers
+test2/huxley/bnw1 1 
+</list>
+<list> followed
+test2/huxley/bnw1 1 
+</list>
+<list> fret
+test2/huxley/bnw1 1 
+</list>
+<list> full
+test2/huxley/bnw1 5 
+</list>
+<list> floridly
+test2/huxley/bnw1 1 
+</list>
+<list> fifty
+test2/huxley/bnw1 2 
+</list>
+<list> five
+test2/huxley/bnw1 2 
+</list>
+<list> f
+test2/huxley/bnw1 1 
+</list>
+<list> first
+test2/huxley/bnw1 1 
+</list>
+<list> fact
+test2/huxley/bnw1 1 
+</list>
+<list> free
+test2/huxley/bnw1 1 
+</list>
+<list> fertilized
+test2/huxley/bnw1 1 
+</list>
+<list> formed
+test2/huxley/bnw1 1 
+</list>
+<list> faintly
+test2/huxley/bnw1 1 
+</list>
+<list> few
+test2/huxley/bnw1 1 
+</list>
+<list> further
+test2/huxley/bnw1 1 
+</list>
+<list> fatal
+test2/huxley/bnw1 1 
+</list>
+<list> fair
+test2/huxley/bnw1 1 
+</list>
+<list> grey
+test2/huxley/bnw1 1 
+</list>
+<list> ground
+test2/huxley/bnw1 1 
+</list>
+<list> glared
+test2/huxley/bnw1 1 
+</list>
+<list> goose
+test2/huxley/bnw1 1 
+</list>
+<list> glass
+test2/huxley/bnw1 1 
+</list>
+<list> gloved
+test2/huxley/bnw1 1 
+</list>
+<list> ghost
+test2/huxley/bnw1 1 
+</list>
+<list> great
+test2/huxley/bnw1 1 
+</list>
+<list> give
+test2/huxley/bnw1 1 
+</list>
+<list> general
+test2/huxley/bnw1 2 
+</list>
+<list> good
+test2/huxley/bnw1 2 
+</list>
+<list> generalities
+test2/huxley/bnw1 2 
+</list>
+<list> geniality
+test2/huxley/bnw1 1 
+</list>
+<list> gametes
+test2/huxley/bnw1 1 
+</list>
+<list> gave
+test2/huxley/bnw1 1 
+</list>
+<list> gammas
+test2/huxley/bnw1 1 
+</list>
+<list> grow
+test2/huxley/bnw1 2 
+</list>
+<list> grew
+test2/huxley/bnw1 1 
+</list>
+<list> growth
+test2/huxley/bnw1 1 
+</list>
+<list> go
+test2/huxley/bnw1 1 
+</list>
+<list> generally
+test2/huxley/bnw1 1 
+</list>
+<list> hate
+test2/test2.txt 1 
+</list>
+<list> hopefully
+test2/test3.txt 1 
+</list>
+<list> hatchery
+test2/huxley/bnw1 1 
+</list>
+<list> heat
+test2/huxley/bnw1 3 
+</list>
+<list> harsh
+test2/huxley/bnw1 1 
+</list>
+<list> hungrily
+test2/huxley/bnw1 1 
+</list>
+<list> hands
+test2/huxley/bnw1 1 
+</list>
+<list> hundred
+test2/huxley/bnw1 2 
+</list>
+<list> hatcheries
+test2/huxley/bnw1 1 
+</list>
+<list> hum
+test2/huxley/bnw1 1 
+</list>
+<list> heels
+test2/huxley/bnw1 1 
+</list>
+<list> he
+test2/huxley/bnw1 14 
+</list>
+<list> horse
+test2/huxley/bnw1 2 
+</list>
+<list> h
+test2/huxley/bnw1 3 
+</list>
+<list> his
+test2/huxley/bnw1 5 
+</list>
+<list> have
+test2/huxley/bnw1 3 
+</list>
+<list> happy
+test2/huxley/bnw1 1 
+</list>
+<list> happiness
+test2/huxley/bnw1 1 
+</list>
+<list> had
+test2/huxley/bnw1 1 
+</list>
+<list> hard
+test2/huxley/bnw1 2 
+</list>
+<list> hand
+test2/huxley/bnw1 1 
+</list>
+<list> here
+test2/huxley/bnw1 1 
+</list>
+<list> how
+test2/huxley/bnw1 7 
+</list>
+<list> hours
+test2/huxley/bnw1 1 
+</list>
+<list> human
+test2/huxley/bnw1 1 
+</list>
+<list> having
+test2/huxley/bnw1 2 
+</list>
+<list> is
+test2/test2.txt 1 test2/huxley/bnw1 1 
+</list>
+<list> in
+test2/test2.txt 1 test2/huxley/bnw1 15 
+</list>
+<list> i
+test2/test2.txt 1 test2/huxley/bnw1 1 
+</list>
+<list> identity
+test2/huxley/bnw1 1 
+</list>
+<list> itself
+test2/huxley/bnw1 1 
+</list>
+<list> it
+test2/huxley/bnw1 11 
+</list>
+<list> instruments
+test2/huxley/bnw1 1 
+</list>
+<list> idea
+test2/huxley/bnw1 2 
+</list>
+<list> if
+test2/huxley/bnw1 4 
+</list>
+<list> intelligently
+test2/huxley/bnw1 1 
+</list>
+<list> intellectually
+test2/huxley/bnw1 1 
+</list>
+<list> into
+test2/huxley/bnw1 5 
+</list>
+<list> intention
+test2/huxley/bnw1 1 
+</list>
+<list> incubators
+test2/huxley/bnw1 4 
+</list>
+<list> insulated
+test2/huxley/bnw1 1 
+</list>
+<list> instead
+test2/huxley/bnw1 1 
+</list>
+<list> illegibly
+test2/huxley/bnw1 1 
+</list>
+<list> its
+test2/huxley/bnw1 2 
+</list>
+<list> introduction
+test2/huxley/bnw1 1 
+</list>
+<list> inspected
+test2/huxley/bnw1 1 
+</list>
+<list> immersed
+test2/huxley/bnw1 2 
+</list>
+<list> insisted
+test2/huxley/bnw1 1 
+</list>
+<list> improvement
+test2/huxley/bnw1 1 
+</list>
+<list> identical
+test2/huxley/bnw1 1 
+</list>
+<list> just
+test2/huxley/bnw1 2 
+</list>
+<list> knows
+test2/huxley/bnw1 1 
+</list>
+<list> kept
+test2/huxley/bnw1 3 
+</list>
+<list> london
+test2/huxley/bnw1 2 
+</list>
+<list> light
+test2/huxley/bnw1 2 
+</list>
+<list> lay
+test2/huxley/bnw1 1 
+</list>
+<list> laboratory
+test2/huxley/bnw1 1 
+</list>
+<list> living
+test2/huxley/bnw1 1 
+</list>
+<list> lying
+test2/huxley/bnw1 1 
+</list>
+<list> like
+test2/huxley/bnw1 2 
+</list>
+<list> luscious
+test2/huxley/bnw1 1 
+</list>
+<list> long
+test2/huxley/bnw1 2 
+</list>
+<list> little
+test2/huxley/bnw1 2 
+</list>
+<list> ll
+test2/huxley/bnw1 1 
+</list>
+<list> lips
+test2/huxley/bnw1 1 
+</list>
+<list> lambs
+test2/huxley/bnw1 1 
+</list>
+<list> leaning
+test2/huxley/bnw1 1 
+</list>
+<list> liquor
+test2/huxley/bnw1 3 
+</list>
+<list> leading
+test2/huxley/bnw1 1 
+</list>
+<list> let
+test2/huxley/bnw1 1 
+</list>
+<list> lifted
+test2/huxley/bnw1 1 
+</list>
+<list> large
+test2/huxley/bnw1 1 
+</list>
+<list> least
+test2/huxley/bnw1 1 
+</list>
+<list> left
+test2/huxley/bnw1 1 
+</list>
+<list> main
+test2/huxley/bnw1 1 
+</list>
+<list> motto
+test2/huxley/bnw1 1 
+</list>
+<list> microscopes
+test2/huxley/bnw1 2 
+</list>
+<list> minded
+test2/huxley/bnw1 1 
+</list>
+<list> man
+test2/huxley/bnw1 1 
+</list>
+<list> mouth
+test2/huxley/bnw1 2 
+</list>
+<list> made
+test2/huxley/bnw1 1 
+</list>
+<list> must
+test2/huxley/bnw1 1 
+</list>
+<list> members
+test2/huxley/bnw1 1 
+</list>
+<list> make
+test2/huxley/bnw1 1 
+</list>
+<list> morrow
+test2/huxley/bnw1 1 
+</list>
+<list> menacing
+test2/huxley/bnw1 1 
+</list>
+<list> meanwhile
+test2/huxley/bnw1 2 
+</list>
+<list> mad
+test2/huxley/bnw1 1 
+</list>
+<list> more
+test2/huxley/bnw1 1 
+</list>
+<list> male
+test2/huxley/bnw1 1 
+</list>
+<list> modern
+test2/huxley/bnw1 1 
+</list>
+<list> mention
+test2/huxley/bnw1 1 
+</list>
+<list> months
+test2/huxley/bnw1 1 
+</list>
+<list> minimum
+test2/huxley/bnw1 1 
+</list>
+<list> minutes
+test2/huxley/bnw1 3 
+</list>
+<list> making
+test2/huxley/bnw1 1 
+</list>
+<list> moving
+test2/huxley/bnw1 1 
+</list>
+<list> metal
+test2/huxley/bnw1 1 
+</list>
+<list> machinery
+test2/huxley/bnw1 1 
+</list>
+<list> much
+test2/huxley/bnw1 1 
+</list>
+<list> most
+test2/huxley/bnw1 1 
+</list>
+<list> north
+test2/huxley/bnw1 1 
+</list>
+<list> nickel
+test2/huxley/bnw1 1 
+</list>
+<list> newly
+test2/huxley/bnw1 1 
+</list>
+<list> nervously
+test2/huxley/bnw1 1 
+</list>
+<list> notebook
+test2/huxley/bnw1 2 
+</list>
+<list> new
+test2/huxley/bnw1 1 
+</list>
+<list> necessary
+test2/huxley/bnw1 2 
+</list>
+<list> not
+test2/huxley/bnw1 4 
+</list>
+<list> notebooks
+test2/huxley/bnw1 2 
+</list>
+<list> numbered
+test2/huxley/bnw1 1 
+</list>
+<list> no
+test2/huxley/bnw1 1 
+</list>
+<list> now
+test2/huxley/bnw1 1 
+</list>
+<list> normality
+test2/huxley/bnw1 1 
+</list>
+<list> ninety
+test2/huxley/bnw1 3 
+</list>
+<list> normal
+test2/huxley/bnw1 1 
+</list>
+<list> nature
+test2/huxley/bnw1 1 
+</list>
+<list> o
+test2/huxley/bnw2~ 1 
+</list>
+<list> of
+test2/huxley/bnw1 38 
+</list>
+<list> only
+test2/huxley/bnw1 5 
+</list>
+<list> over
+test2/huxley/bnw1 2 
+</list>
+<list> on
+test2/huxley/bnw1 4 
+</list>
+<list> overalls
+test2/huxley/bnw1 1 
+</list>
+<list> opening
+test2/huxley/bnw1 2 
+</list>
+<list> or
+test2/huxley/bnw1 1 
+</list>
+<list> one
+test2/huxley/bnw1 7 
+</list>
+<list> old
+test2/huxley/bnw1 2 
+</list>
+<list> occur
+test2/huxley/bnw1 1 
+</list>
+<list> ova
+test2/huxley/bnw1 2 
+</list>
+<list> opened
+test2/huxley/bnw1 1 
+</list>
+<list> operation
+test2/huxley/bnw1 2 
+</list>
+<list> ovary
+test2/huxley/bnw1 1 
+</list>
+<list> optimum
+test2/huxley/bnw1 1 
+</list>
+<list> off
+test2/huxley/bnw1 1 
+</list>
+<list> out
+test2/huxley/bnw1 6 
+</list>
+<list> onto
+test2/huxley/bnw1 1 
+</list>
+<list> original
+test2/huxley/bnw1 1 
+</list>
+<list> pavan
+test2/test2.txt 1 
+</list>
+<list> panes
+test2/huxley/bnw1 1 
+</list>
+<list> pallid
+test2/huxley/bnw1 1 
+</list>
+<list> porcelain
+test2/huxley/bnw1 1 
+</list>
+<list> pale
+test2/huxley/bnw1 1 
+</list>
+<list> polished
+test2/huxley/bnw1 1 
+</list>
+<list> plunged
+test2/huxley/bnw1 1 
+</list>
+<list> pink
+test2/huxley/bnw1 1 
+</list>
+<list> privilege
+test2/huxley/bnw1 2 
+</list>
+<list> point
+test2/huxley/bnw1 1 
+</list>
+<list> personally
+test2/huxley/bnw1 1 
+</list>
+<list> possible
+test2/huxley/bnw1 1 
+</list>
+<list> particulars
+test2/huxley/bnw1 1 
+</list>
+<list> philosophers
+test2/huxley/bnw1 1 
+</list>
+<list> prominent
+test2/huxley/bnw1 1 
+</list>
+<list> pencils
+test2/huxley/bnw1 2 
+</list>
+<list> pages
+test2/huxley/bnw1 1 
+</list>
+<list> process
+test2/huxley/bnw1 3 
+</list>
+<list> preserving
+test2/huxley/bnw1 1 
+</list>
+<list> passed
+test2/huxley/bnw1 1 
+</list>
+<list> porous
+test2/huxley/bnw1 1 
+</list>
+<list> per
+test2/huxley/bnw1 1 
+</list>
+<list> proliferate
+test2/huxley/bnw1 1 
+</list>
+<list> perfectly
+test2/huxley/bnw1 1 
+</list>
+<list> progress
+test2/huxley/bnw1 1 
+</list>
+<list> paradoxically
+test2/huxley/bnw1 1 
+</list>
+<list> pointed
+test2/huxley/bnw1 1 
+</list>
+<list> purred
+test2/huxley/bnw1 1 
+</list>
+<list> put
+test2/huxley/bnw1 1 
+</list>
+<list> peace
+test2/huxley/bnw1 1 
+</list>
+<list> prodigious
+test2/huxley/bnw1 1 
+</list>
+<list> piddling
+test2/huxley/bnw1 1 
+</list>
+<list> question
+test2/huxley/bnw1 1 
+</list>
+<list> room
+test2/huxley/bnw1 5 
+</list>
+<list> responded
+test2/huxley/bnw1 1 
+</list>
+<list> rubber
+test2/huxley/bnw1 1 
+</list>
+<list> rich
+test2/huxley/bnw1 1 
+</list>
+<list> recession
+test2/huxley/bnw1 1 
+</list>
+<list> rather
+test2/huxley/bnw1 3 
+</list>
+<list> rare
+test2/huxley/bnw1 1 
+</list>
+<list> round
+test2/huxley/bnw1 1 
+</list>
+<list> recorded
+test2/huxley/bnw1 1 
+</list>
+<list> racks
+test2/huxley/bnw1 2 
+</list>
+<list> rams
+test2/huxley/bnw1 1 
+</list>
+<list> referred
+test2/huxley/bnw1 1 
+</list>
+<list> ripened
+test2/huxley/bnw1 1 
+</list>
+<list> receptacle
+test2/huxley/bnw1 2 
+</list>
+<list> re
+test2/huxley/bnw1 1 
+</list>
+<list> remained
+test2/huxley/bnw1 2 
+</list>
+<list> repeated
+test2/huxley/bnw1 1 
+</list>
+<list> responds
+test2/huxley/bnw1 2 
+</list>
+<list> rack
+test2/huxley/bnw1 2 
+</list>
+<list> rays
+test2/huxley/bnw1 1 
+</list>
+<list> rest
+test2/huxley/bnw1 1 
+</list>
+<list> returned
+test2/huxley/bnw1 1 
+</list>
+<list> squat
+test2/huxley/bnw1 1 
+</list>
+<list> stories
+test2/huxley/bnw1 1 
+</list>
+<list> shield
+test2/huxley/bnw1 1 
+</list>
+<list> state
+test2/huxley/bnw1 1 
+</list>
+<list> s
+test2/huxley/bnw1 7 
+</list>
+<list> stability
+test2/huxley/bnw1 2 
+</list>
+<list> summer
+test2/huxley/bnw1 1 
+</list>
+<list> seeking
+test2/huxley/bnw1 1 
+</list>
+<list> some
+test2/huxley/bnw1 5 
+</list>
+<list> shape
+test2/huxley/bnw1 1 
+</list>
+<list> shining
+test2/huxley/bnw1 1 
+</list>
+<list> substance
+test2/huxley/bnw1 1 
+</list>
+<list> streak
+test2/huxley/bnw1 2 
+</list>
+<list> said
+test2/huxley/bnw1 2 
+</list>
+<list> scarcely
+test2/huxley/bnw1 1 
+</list>
+<list> silence
+test2/huxley/bnw1 1 
+</list>
+<list> soliloquizing
+test2/huxley/bnw1 1 
+</list>
+<list> students
+test2/huxley/bnw1 4 
+</list>
+<list> spoke
+test2/huxley/bnw1 2 
+</list>
+<list> scribbled
+test2/huxley/bnw1 2 
+</list>
+<list> straight
+test2/huxley/bnw1 2 
+</list>
+<list> sort
+test2/huxley/bnw1 1 
+</list>
+<list> society
+test2/huxley/bnw1 3 
+</list>
+<list> sawyers
+test2/huxley/bnw1 1 
+</list>
+<list> stamp
+test2/huxley/bnw1 1 
+</list>
+<list> smiling
+test2/huxley/bnw1 1 
+</list>
+<list> slightly
+test2/huxley/bnw1 1 
+</list>
+<list> settling
+test2/huxley/bnw1 1 
+</list>
+<list> serious
+test2/huxley/bnw1 1 
+</list>
+<list> say
+test2/huxley/bnw1 1 
+</list>
+<list> shall
+test2/huxley/bnw1 1 
+</list>
+<list> showed
+test2/huxley/bnw1 2 
+</list>
+<list> supply
+test2/huxley/bnw1 1 
+</list>
+<list> seven
+test2/huxley/bnw1 1 
+</list>
+<list> sterilizes
+test2/huxley/bnw1 1 
+</list>
+<list> still
+test2/huxley/bnw1 1 
+</list>
+<list> scurried
+test2/huxley/bnw1 1 
+</list>
+<list> surgical
+test2/huxley/bnw1 1 
+</list>
+<list> six
+test2/huxley/bnw1 5 
+</list>
+<list> salary
+test2/huxley/bnw1 1 
+</list>
+<list> salinity
+test2/huxley/bnw1 1 
+</list>
+<list> specially
+test2/huxley/bnw1 1 
+</list>
+<list> slides
+test2/huxley/bnw1 1 
+</list>
+<list> swimming
+test2/huxley/bnw1 1 
+</list>
+<list> spermatozoa
+test2/huxley/bnw1 1 
+</list>
+<list> sized
+test2/huxley/bnw1 1 
+</list>
+<list> series
+test2/huxley/bnw1 1 
+</list>
+<list> slowly
+test2/huxley/bnw1 1 
+</list>
+<list> stand
+test2/huxley/bnw1 1 
+</list>
+<list> susceptible
+test2/huxley/bnw1 1 
+</list>
+<list> suddenly
+test2/huxley/bnw1 1 
+</list>
+<list> sometimes
+test2/huxley/bnw1 1 
+</list>
+<list> scores
+test2/huxley/bnw1 1 
+</list>
+<list> this
+test2/test2.txt 2 test2/test3.txt 1 test2/huxley/bnw1 4 
+</list>
+<list> test
+test2/test2.txt 1 test2/test3.txt 1 test2/huxley/bnw1 3 
+</list>
+<list> time
+test2/test2.txt 1 test2/huxley/bnw1 3 
+</list>
+<list> thirty
+test2/huxley/bnw1 5 
+</list>
+<list> the
+test2/huxley/bnw1 84 
+</list>
+<list> towards
+test2/huxley/bnw1 1 
+</list>
+<list> tropical
+test2/huxley/bnw1 1 
+</list>
+<list> thin
+test2/huxley/bnw1 2 
+</list>
+<list> through
+test2/huxley/bnw1 2 
+</list>
+<list> to
+test2/huxley/bnw1 28 
+</list>
+<list> their
+test2/huxley/bnw1 6 
+</list>
+<list> tubes
+test2/huxley/bnw1 5 
+</list>
+<list> tables
+test2/huxley/bnw1 2 
+</list>
+<list> three
+test2/huxley/bnw1 1 
+</list>
+<list> troop
+test2/huxley/bnw1 1 
+</list>
+<list> them
+test2/huxley/bnw1 8 
+</list>
+<list> they
+test2/huxley/bnw1 4 
+</list>
+<list> though
+test2/huxley/bnw1 1 
+</list>
+<list> t
+test2/huxley/bnw1 3 
+</list>
+<list> tall
+test2/huxley/bnw1 1 
+</list>
+<list> teeth
+test2/huxley/bnw1 1 
+</list>
+<list> talking
+test2/huxley/bnw1 1 
+</list>
+<list> these
+test2/huxley/bnw1 1 
+</list>
+<list> theremogene
+test2/huxley/bnw1 1 
+</list>
+<list> that
+test2/huxley/bnw1 1 
+</list>
+<list> technique
+test2/huxley/bnw1 1 
+</list>
+<list> temperature
+test2/huxley/bnw1 1 
+</list>
+<list> transferred
+test2/huxley/bnw1 1 
+</list>
+<list> took
+test2/huxley/bnw1 2 
+</list>
+<list> thousand
+test2/huxley/bnw1 1 
+</list>
+<list> ten
+test2/huxley/bnw1 1 
+</list>
+<list> told
+test2/huxley/bnw1 1 
+</list>
+<list> two
+test2/huxley/bnw1 3 
+</list>
+<list> then
+test2/huxley/bnw1 1 
+</list>
+<list> turn
+test2/huxley/bnw1 1 
+</list>
+<list> thereafter
+test2/huxley/bnw1 1 
+</list>
+<list> twins
+test2/huxley/bnw1 1 
+</list>
+<list> twos
+test2/huxley/bnw1 1 
+</list>
+<list> threes
+test2/huxley/bnw1 1 
+</list>
+<list> upright
+test2/huxley/bnw1 1 
+</list>
+<list> upon
+test2/huxley/bnw1 1 
+</list>
+<list> undergone
+test2/huxley/bnw1 1 
+</list>
+<list> unfertilized
+test2/huxley/bnw1 1 
+</list>
+<list> until
+test2/huxley/bnw1 1 
+</list>
+<list> undergo
+test2/huxley/bnw1 1 
+</list>
+<list> underlined
+test2/huxley/bnw1 1 
+</list>
+<list> very
+test2/huxley/bnw1 2 
+</list>
+<list> various
+test2/huxley/bnw1 1 
+</list>
+<list> virtue
+test2/huxley/bnw1 1 
+</list>
+<list> voluntarily
+test2/huxley/bnw1 1 
+</list>
+<list> viscosity
+test2/huxley/bnw1 1 
+</list>
+<list> viviparous
+test2/huxley/bnw1 1 
+</list>
+<list> works
+test2/test3.txt 1 
+</list>
+<list> words
+test2/huxley/bnw1 2 
+</list>
+<list> world
+test2/huxley/bnw1 1 
+</list>
+<list> windows
+test2/huxley/bnw1 1 
+</list>
+<list> wintriness
+test2/huxley/bnw1 2 
+</list>
+<list> workers
+test2/huxley/bnw1 1 
+</list>
+<list> were
+test2/huxley/bnw1 12 
+</list>
+<list> white
+test2/huxley/bnw1 1 
+</list>
+<list> with
+test2/huxley/bnw1 4 
+</list>
+<list> was
+test2/huxley/bnw1 13 
+</list>
+<list> work
+test2/huxley/bnw1 4 
+</list>
+<list> whistle
+test2/huxley/bnw1 1 
+</list>
+<list> which
+test2/huxley/bnw1 4 
+</list>
+<list> whenever
+test2/huxley/bnw1 1 
+</list>
+<list> would
+test2/huxley/bnw1 3 
+</list>
+<list> won
+test2/huxley/bnw1 1 
+</list>
+<list> when
+test2/huxley/bnw1 2 
+</list>
+<list> waved
+test2/huxley/bnw1 1 
+</list>
+<list> week
+test2/huxley/bnw1 1 
+</list>
+<list> whereas
+test2/huxley/bnw1 1 
+</list>
+<list> wrapped
+test2/huxley/bnw1 1 
+</list>
+<list> while
+test2/huxley/bnw1 2 
+</list>
+<list> warmed
+test2/huxley/bnw1 1 
+</list>
+<list> watch
+test2/huxley/bnw1 1 
+</list>
+<list> warm
+test2/huxley/bnw1 1 
+</list>
+<list> went
+test2/huxley/bnw1 1 
+</list>
+<list> where
+test2/huxley/bnw1 3 
+</list>
+<list> will
+test2/huxley/bnw1 5 
+</list>
+<list> we
+test2/huxley/bnw1 1 
+</list>
+<list> way
+test2/huxley/bnw1 1 
+</list>
+<list> x
+test2/huxley/bnw1 1 
+</list>
+<list> yellow
+test2/huxley/bnw1 1 
+</list>
+<list> young
+test2/huxley/bnw1 2 
+</list>
+<list> you
+test2/huxley/bnw1 5 
+</list>
+<list> year
+test2/huxley/bnw1 1 
+</list>
+<list> yet
+test2/huxley/bnw1 1 
+</list>
+<list> zealous
+test2/huxley/bnw1 1 
+</list>
+<list> 632
+test2/huxley/bnw1 1 
+</list>

@@ -1,0 +1,525 @@
+<list> 
+test.txt 5 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> any
+test.txt 1 
+</list>
+<list> and
+test.txt 5 
+</list>
+<list> about
+test.txt 3 
+</list>
+<list> at
+test.txt 1 
+</list>
+<list> also
+test.txt 1 
+</list>
+<list> adventures
+test.txt 3 
+</list>
+<list> author
+test.txt 1 
+</list>
+<list> arthur
+test.txt 2 
+</list>
+<list> ascii
+test.txt 1 
+</list>
+<list> additional
+test.txt 1 
+</list>
+<list> adventure
+test.txt 7 
+</list>
+<list> 
+test.txt 3 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> bottom
+test.txt 1 
+</list>
+<list> by
+test.txt 5 
+</list>
+<list> both
+test.txt 1 
+</list>
+<list> bohemia
+test.txt 2 
+</list>
+<list> boscombe
+test.txt 1 
+</list>
+<list> blue
+test.txt 1 
+</list>
+<list> band
+test.txt 1 
+</list>
+<list> bachelor
+test.txt 1 
+</list>
+<list> beryl
+test.txt 1 
+</list>
+<list> beeches
+test.txt 1 
+</list>
+<list> 
+test.txt 2 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> check
+test.txt 1 
+</list>
+<list> counêD*
+test.txt 1 
+</list>
+<list> change
+test.txt 1 
+</list>
+<list> can
+test.txt 1 
+</list>
+<list> computers
+test.txt 1 
+</list>
+<list> conan
+test.txt 2 
+</list>
+<list> character
+test.txt 1 
+</list>
+<list> contents
+test.txt 1 
+</list>
+<list> case
+test.txt 1 
+</list>
+<list> carbuncle
+test.txt 1 
+</list>
+<list> coronet
+test.txt 1 
+</list>
+<list> copper
+test.txt 1 
+</list>
+<list> 0ìJi
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> do
+test.txt 2 
+</list>
+<list> donation
+test.txt 1 
+</list>
+<list> doyle
+test.txt 2 
+</list>
+<list> date
+test.txt 1 
+</list>
+<list> 
+test.txt 4 
+</list>
+<list> edit
+test.txt 1 
+</list>
+<list> electronic
+test.txt 1 
+</list>
+<list> ebooks
+test.txt 2 
+</list>
+<list> edition
+test.txt 1 
+</list>
+<list> english
+test.txt 1 
+</list>
+<list> encoding
+test.txt 1 
+</list>
+<list> editing
+test.txt 1 
+</list>
+<list> engineer
+test.txt 1 
+</list>
+<list> ˇˇˇˇˇour
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> 
+test.txt 3 
+</list>
+<list> find
+test.txt 1 
+</list>
+<list> free
+test.txt 1 
+</list>
+<list> five
+test.txt 1 
+</list>
+<list> 
+test.txt 5 
+</list>
+<list> get
+test.txt 1 
+</list>
+<list> i
+test.txt 1 
+</list>
+<list> 
+test.txt 2 
+</list>
+<list> how
+test.txt 3 
+</list>
+<list> humans
+test.txt 1 
+</list>
+<list> holmes
+test.txt 3 
+</list>
+<list> headed
+test.txt 1 
+</list>
+<list> 
+test.txt 2 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> 
+test.txt 2 
+</list>
+<list> information
+test.txt 2 
+</list>
+<list> included
+test.txt 1 
+</list>
+<list> imp@
+test.txt 1 
+</list>
+<list> in
+test.txt 3 
+</list>
+<list> involved
+test.txt 1 
+</list>
+<list> i
+test.txt 2 
+</list>
+<list> ii
+test.txt 1 
+</list>
+<list> iii
+test.txt 1 
+</list>
+<list> identity
+test.txt 1 
+</list>
+<list> iv
+test.txt 1 
+</list>
+<list> ix
+test.txt 1 
+</list>
+<list> jose
+test.txt 1 
+</list>
+<list> 
+test.txt 2 
+</list>
+<list> legal
+test.txt 1 
+</list>
+<list> language
+test.txt 1 
+</list>
+<list> league
+test.txt 1 
+</list>
+<list> lip
+test.txt 1 
+</list>
+<list> may
+test.txt 1 
+</list>
+<list> make
+test.txt 1 
+</list>
+<list> march
+test.txt 1 
+</list>
+<list> most
+test.txt 1 
+</list>
+<list> menendez
+test.txt 1 
+</list>
+<list> mystery
+test.txt 1 
+</list>
+<list> man
+test.txt 1 
+</list>
+<list> not
+test.txt 2 
+</list>
+<list> november
+test.txt 1 
+</list>
+<list> noble
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> or
+test.txt 3 
+</list>
+<list> oth
+test.txt 2 
+</list>
+<list> of
+test.txt 14 
+</list>
+<list> out
+test.txt 1 
+</list>
+<list> orange
+test.txt 1 
+</list>
+<list> 
+test.txt 6 
+</list>
+<list> please
+test.txt 2 
+</list>
+<list> permission
+test.txt 1 
+</list>
+<list> print
+test.txt 1 
+</list>
+<list> plain
+test.txt 1 
+</list>
+<list> prepared
+test.txt 1 
+</list>
+<list> pips
+test.txt 1 
+</list>
+<list> redistˇˇˇˇting
+test.txt 1 
+</list>
+<list> remove
+test.txt 1 
+</list>
+<list> read
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> restrictions
+test.txt 1 
+</list>
+<list> readable
+test.txt 1 
+</list>
+<list> release
+test.txt 1 
+</list>
+<list> recently
+test.txt 1 
+</list>
+<list> red
+test.txt 1 
+</list>
+<list> ìJi
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> small
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> since
+test.txt 1 
+</list>
+<list> sherlock
+test.txt 3 
+</list>
+<list> sir
+test.txt 2 
+</list>
+<list> set
+test.txt 1 
+</list>
+<list> start
+test.txt 1 
+</list>
+<list> scandal
+test.txt 2 
+</list>
+<list> speckled
+test.txt 1 
+</list>
+<list> s
+test.txt 1 
+</list>
+<list> Ä,≠˚i
+test.txt 5 
+</list>
+<list> ìJi
+test.txt 1 
+</list>
+<list> 
+test.txt 6 
+</list>
+<list> 0ìJi
+test.txt 31 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> texts
+test.txt 1 
+</list>
+<list> these
+test.txt 1 
+</list>
+<list> thousands
+test.txt 1 
+</list>
+<list> title
+test.txt 1 
+</list>
+<list> twisted
+test.txt 1 
+</list>
+<list> thumb
+test.txt 1 
+</list>
+<list> used
+test.txt 1 
+</list>
+<list> updated
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> vanilla
+test.txt 1 
+</list>
+<list> volunteers
+test.txt 1 
+</list>
+<list> valley
+test.txt 1 
+</list>
+<list> v
+test.txt 1 
+</list>
+<list> vi
+test.txt 1 
+</list>
+<list> vii
+test.txt 1 
+</list>
+<list> viii
+test.txt 1 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> ÄqJi
+test.txt 2 
+</list>
+<list> 
+test.txt 1 
+</list>
+<list> without
+test.txt 1 
+</list>
+<list> written
+test.txt 1 
+</list>
+<list> welcome
+test.txt 1 
+</list>
+<list> were
+test.txt 1 
+</list>
+<list> with
+test.txt 1 
+</list>
+<list> x
+test.txt 1 
+</list>
+<list> xi
+test.txt 1 
+</list>
+<list> xii
+test.txt 1 
+</list>
+<list> ˇour
+test.txt 2 
+</list>
+<list> you
+test.txt 1 
+</list>
+<list> 1971
+test.txt 1 
+</list>
+<list> 1999
+test.txt 1 
+</list>
+<list> 1661
+test.txt 1 
+</list>
+<list> 12
+test.txt 1 
+</list>
+<list> 29
+test.txt 1 
+</list>
+<list> 2002
+test.txt 1 
+</list>
